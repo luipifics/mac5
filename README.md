@@ -1618,5 +1618,1284 @@ http://applyrenderflow.h1ott.com:80/Eduardo/Eduardo/151997
 http://applyrenderflow.h1ott.com:80/Eduardo/Eduardo/151996
 #EXTINF:-1 tvg-id="uy.VTV" tvg-name="UY| VTV HD" tvg-logo="http://logo.protv.cc/picons/logos/vtv.png" group-title="LAT| URUGUAY",UY| VTV HD
 http://applyrenderflow.h1ott.com:80/Eduardo/Eduardo/151998
-#EXTINF:-1 tvg-id="uy.VTV" tvg-name="UY| VTV + PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png" group-title="LAT| URUGUAY",UY| VTV + PLUS
-http://applyrenderflow.h1ott.com:80/Eduardo/Eduardo/805850
+#EXTINF:-1 tvg-id="uy.VTV" tvg-name="UY| VTV + PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png"tp://applyrenderflow.h1ott.com:80/Eduardo/Eduardo/805850
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS ss123.pro
+http://applyrenderflow.h1ott.com:80/Eduardo/Eduardo/151998
+#EXTINF:-1,ARG| A24
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926588&extension=ts
+#EXTINF:-1,ARG| A3CINE
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926587&extension=ts
+#EXTINF:-1,ARG| AL JAZEERA
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926586&extension=ts
+#EXTINF:-1,ARG| ALLEGRO
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926585&extension=ts
+#EXTINF:-1,ARG| AMC
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926584&extension=ts
+#EXTINF:-1,ARG| AMERICA 2
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926583&extension=ts
+#EXTINF:-1,ARG| AMERICA SPORTS SATELITAL
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926582&extension=ts
+#EXTINF:-1,ARG| ANIMAL PLANET
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926581&extension=ts
+#EXTINF:-1,ARG| ANTENA3
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926580&extension=ts
+#EXTINF:-1,ARG| ARGENTINISIMA SATELITAL
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926579&extension=ts
+#EXTINF:-1,ARG| ARIRANG
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926578&extension=ts
+#EXTINF:-1,ARG| ATRESERIES
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926577&extension=ts
+#EXTINF:-1,ARG| AXN
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926576&extension=ts
+#EXTINF:-1,ARG| BABY TV
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926575&extension=ts
+#EXTINF:-1,ARG| BAND INTERNACIONAL
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926574&extension=ts
+#EXTINF:-1,ARG| BBC WORLD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926573&extension=ts
+#EXTINF:-1,ARG| BLOOMBERG
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926572&extension=ts
+#EXTINF:-1,ARG| CANAL 90
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926571&extension=ts
+#EXTINF:-1,ARG| CANAL DE LA MUSICA
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926568&extension=ts
+#EXTINF:-1,ARG| FOX SPORTS PREMIUM
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=79300&extension=ts
+#EXTINF:-1,ARG| CANAL A
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926570&extension=ts
+#EXTINF:-1,ARG| CANAL DE LA CIUDAD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926569&extension=ts
+#EXTINF:-1,ARG| CANAL DE LAS ESTRELLAS
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926567&extension=ts
+#EXTINF:-1,ARG| CANAL LUZ
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926566&extension=ts
+#EXTINF:-1,ARG| CANAL ORBE 21
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926565&extension=ts
+#EXTINF:-1,ARG| CANAL RURAL
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926564&extension=ts
+#EXTINF:-1,ARG| CANAL SANTA MARÍA
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926563&extension=ts
+#EXTINF:-1,ARG| CANAL UNIVERSIDAD DE LA PLATA
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926562&extension=ts
+#EXTINF:-1,ARG| CARTOON NETWORK
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926561&extension=ts
+#EXTINF:-1,ARG| CARTOONITO
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926560&extension=ts
+#EXTINF:-1,ARG| CHACRA TV
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926559&extension=ts
+#EXTINF:-1,ARG| CINE.AR
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926558&extension=ts
+#EXTINF:-1,ARG| CINECANAL
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926557&extension=ts
+#EXTINF:-1,ARG| CINEMAX
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926556&extension=ts
+#EXTINF:-1,ARG| CNN
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926555&extension=ts
+#EXTINF:-1,ARG| COMEDY CENTRAL
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926553&extension=ts
+#EXTINF:-1,ARG| CRONICA
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926552&extension=ts
+#EXTINF:-1,ARG| DEUTSCHE WELLE
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926550&extension=ts
+#EXTINF:-1,ARG| DIPUTADOS TV
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926549&extension=ts
+#EXTINF:-1,ARG| DISC TURBO
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926548&extension=ts
+#EXTINF:-1,ARG| DISCOVERY
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926547&extension=ts
+#EXTINF:-1,ARG| DISCOVERY THEATER
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926546&extension=ts
+#EXTINF:-1,ARG| DISCOVERY ID
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926545&extension=ts
+#EXTINF:-1,ARG| DISCOVERY KIDS
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926544&extension=ts
+#EXTINF:-1,ARG| DISCOVERY SCIENCE
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926543&extension=ts
+#EXTINF:-1,ARG| DISCOVERY TLC
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926542&extension=ts
+#EXTINF:-1,ARG| DISCOVERY WORLD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926541&extension=ts
+#EXTINF:-1,ARG| DISNEY
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926540&extension=ts
+#EXTINF:-1,ARG| DISNEY JR
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926539&extension=ts
+#EXTINF:-1,ARG| E!
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926538&extension=ts
+#EXTINF:-1,ARG| EL GOURMET
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926537&extension=ts
+#EXTINF:-1,ARG| EUROCHANNEL
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926535&extension=ts
+#EXTINF:-1,ARG| EURONEWS
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926534&extension=ts
+#EXTINF:-1,ARG| EVENTOS 1
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926533&extension=ts
+#EXTINF:-1,ARG| EVENTOS 2
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926532&extension=ts
+#EXTINF:-1,ARG| FILM&ARTS
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926531&extension=ts
+#EXTINF:-1,ARG| FLOW GAMING
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926530&extension=ts
+#EXTINF:-1,ARG| FLOW MUSIC
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926529&extension=ts
+#EXTINF:-1,ARG| FOOD NETWORK
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926528&extension=ts
+#EXTINF:-1,ARG| FOX NEWS
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926527&extension=ts
+#EXTINF:-1,ARG| FRANCE 24
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926526&extension=ts
+#EXTINF:-1,ARG| FX
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926524&extension=ts
+#EXTINF:-1,ARG| GALICIA TV
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926523&extension=ts
+#EXTINF:-1,ARG| GLITZ
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926522&extension=ts
+#EXTINF:-1,ARG| GOLF CHANNEL
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926521&extension=ts
+#EXTINF:-1,ARG| H2
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926520&extension=ts
+#EXTINF:-1,ARG| HGTV
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926519&extension=ts
+#EXTINF:-1,ARG| HISTORY
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926518&extension=ts
+#EXTINF:-1,ARG| HOLA TV
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926517&extension=ts
+#EXTINF:-1,ARG| HOME AND HEALTH
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926516&extension=ts
+#EXTINF:-1,ARG| HTV
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926515&extension=ts
+#EXTINF:-1,ARG| I-SAT
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926514&extension=ts
+#EXTINF:-1,ARG| IP
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926513&extension=ts
+#EXTINF:-1,ARG| KZO
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926512&extension=ts
+#EXTINF:-1,ARG| LA NACION
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926511&extension=ts
+#EXTINF:-1,ARG| LIFETIME
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926510&extension=ts
+#EXTINF:-1,ARG| MANIJOMIO
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926509&extension=ts
+#EXTINF:-1,ARG| MAS CHIC
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926508&extension=ts
+#EXTINF:-1,ARG| METRO
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926507&extension=ts
+#EXTINF:-1,ARG| MTV 00S
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926506&extension=ts
+#EXTINF:-1,ARG| MTV
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926505&extension=ts
+#EXTINF:-1,ARG| MTV HITS
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926504&extension=ts
+#EXTINF:-1,ARG| MUCHMUSIC
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926503&extension=ts
+#EXTINF:-1,ARG| NBA TV
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926502&extension=ts
+#EXTINF:-1,ARG| NET TV
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926501&extension=ts
+#EXTINF:-1,ARG| NGC
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926500&extension=ts
+#EXTINF:-1,ARG| NICK JR.
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926499&extension=ts
+#EXTINF:-1,ARG| NICKELODEON
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926498&extension=ts
+#EXTINF:-1,ARG| FOX SPORTS 1 HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=79290&extension=ts
+#EXTINF:-1,ARG| FOX SPORTS 2 HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=79289&extension=ts
+#EXTINF:-1,ARG| FOX SPORTS 3 HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=79288&extension=ts
+#EXTINF:-1,ARG| NICKMUSIC
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926497&extension=ts
+#EXTINF:-1,ARG| NUEVA IMAGEN
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926496&extension=ts
+#EXTINF:-1,ARG| PAKAPAKA
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926495&extension=ts
+#EXTINF:-1,ARG| PARAMOUNT
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926494&extension=ts
+#EXTINF:-1,ARG| PASIONES
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926493&extension=ts
+#EXTINF:-1,ARG| PX SPORTS
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926492&extension=ts
+#EXTINF:-1,ARG| QUIERO
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926491&extension=ts
+#EXTINF:-1,ARG| RAI
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926490&extension=ts
+#EXTINF:-1,ARG| SOMOS
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926489&extension=ts
+#EXTINF:-1,ARG| SOMOS BAHIA
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926488&extension=ts
+#EXTINF:-1,ARG| SOMOS CHACO
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926487&extension=ts
+#EXTINF:-1,ARG| SOMOS CORRIENTES
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926486&extension=ts
+#EXTINF:-1,ARG| SOMOS EL VALLE
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926485&extension=ts
+#EXTINF:-1,ARG| SOMOS ENTRE RIOS
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926484&extension=ts
+#EXTINF:-1,ARG| SOMOS LA PLATA
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926483&extension=ts
+#EXTINF:-1,ARG| SOMOS MAR DEL PLATA
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926482&extension=ts
+#EXTINF:-1,ARG| SOMOS MISIONES
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926481&extension=ts
+#EXTINF:-1,ARG| SOMOS RAFAELA
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926480&extension=ts
+#EXTINF:-1,ARG| SOMOS ROSARIO
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926479&extension=ts
+#EXTINF:-1,ARG| SOMOS RÍO CUARTO
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926478&extension=ts
+#EXTINF:-1,ARG| SOMOS SALTA-JUJUY
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926477&extension=ts
+#EXTINF:-1,ARG| SOMOS SANTA FE
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926476&extension=ts
+#EXTINF:-1,ARG| SONY
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926475&extension=ts
+#EXTINF:-1,ARG| SPACE
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926474&extension=ts
+#EXTINF:-1,ARG| STAR CHANNEL
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926473&extension=ts
+#EXTINF:-1,ARG| STUDIO UNIVERSAL
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926472&extension=ts
+#EXTINF:-1,ARG| SUN CHANNEL
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926471&extension=ts
+#EXTINF:-1,ARG| SY FY
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926470&extension=ts
+#EXTINF:-1,ARG| TBS
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926469&extension=ts
+#EXTINF:-1,ARG| TCM
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926468&extension=ts
+#EXTINF:-1,ARG| TELEMUNDO
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926467&extension=ts
+#EXTINF:-1,ARG| TELESUR
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926466&extension=ts
+#EXTINF:-1,ARG| TNT
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926465&extension=ts
+#EXTINF:-1,ARG| TNT SERIES
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926464&extension=ts
+#EXTINF:-1,ARG| TOONCAST
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926463&extension=ts
+#EXTINF:-1,ARG| TRU TV
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926462&extension=ts
+#EXTINF:-1,ARG| TV 5
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926461&extension=ts
+#EXTINF:-1,ARG| TVE
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926460&extension=ts
+#EXTINF:-1,ARG| UCL
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926458&extension=ts
+#EXTINF:-1,ARG| UNIVERSAL CHANNEL
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926457&extension=ts
+#EXTINF:-1,ARG| VIAJAR
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926456&extension=ts
+#EXTINF:-1,ARG| VOLVER
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926455&extension=ts
+#EXTINF:-1,ARG| VORTERIX
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926454&extension=ts
+#EXTINF:-1,ARG| WARNER
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926453&extension=ts
+#EXTINF:-1,ARG| WOBI
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926452&extension=ts
+#EXTINF:-1,ARG| INFO FLOW
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926451&extension=ts
+#EXTINF:-1,ARG| TNT SPORTS
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926449&extension=ts
+#EXTINF:-1,ARG| DISNEY XD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926448&extension=ts
+#EXTINF:-1,ARG| HBO
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926447&extension=ts
+#EXTINF:-1,ARG| HBO 2
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926446&extension=ts
+#EXTINF:-1,ARG| HBO PLUS
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926445&extension=ts
+#EXTINF:-1,ARG| HBO MUNDI
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926444&extension=ts
+#EXTINF:-1,ARG| HBO POP
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926443&extension=ts
+#EXTINF:-1,ARG| HBO XTREME
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926442&extension=ts
+#EXTINF:-1,ARG| HBO FAMILY
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926441&extension=ts
+#EXTINF:-1,ARG| HBO SIGNATURE
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=926440&extension=ts
+#EXTINF:-1,ARG| EUROPA EUROPA
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=916646&extension=ts
+#EXTINF:-1,ARG| GARAGE TV
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=79287&extension=ts
+#EXTINF:-1,ARG| GOL TV
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=79304&extension=ts
+#EXTINF:-1,ARG| MUSICTOP
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=25314&extension=ts
+#EXTINF:-1,ARG| TELEFE HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=25307&extension=ts
+#EXTINF:-1,ARG| TELEMAX
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=26290&extension=ts
+#EXTINF:-1,ARG| TELPIN CANAL 2
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=25311&extension=ts
+#EXTINF:-1,ARG| TLX HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=79286&extension=ts
+#EXTINF:-1,ARG| TN HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=79302&extension=ts
+#EXTINF:-1,ARG| TV PUBLICA HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=79301&extension=ts
+#EXTINF:-1,ARG| TYC
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=79284&extension=ts
+#EXTINF:-1,ARG| TYC SPORTS HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=25306&extension=ts
+#EXTINF:-1,LAT| TELE ARUBA
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=71076&extension=ts
+#EXTINF:-1,LAT| AMÉRICA TEVÉ MIAMI
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=895157&extension=ts
+#EXTINF:-1,LAT| A&E
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=90826&extension=ts
+#EXTINF:-1,LAT| A&E HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=25524&extension=ts
+#EXTINF:-1,LAT| AMC
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=90823&extension=ts
+#EXTINF:-1,LAT| AMC HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=25560&extension=ts
+#EXTINF:-1,LAT| ANIMAL PLANET HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=145414&extension=ts
+#EXTINF:-1,LAT| ATV NOTICIAS HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=75288&extension=ts
+#EXTINF:-1,LAT| AXN
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=25559&extension=ts
+#EXTINF:-1,LAT| AXN HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=90825&extension=ts
+#EXTINF:-1,LAT| AYM SPORTS
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=90306&extension=ts
+#EXTINF:-1,LAT| AZ CORAZON
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=75286&extension=ts
+#EXTINF:-1,LAT| AZTECA UNO
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=79350&extension=ts
+#EXTINF:-1,LAT| BABY TV
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=79396&extension=ts
+#EXTINF:-1,LAT| BABY TV HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=90817&extension=ts
+#EXTINF:-1,LAT| BBC WORLD NEWS
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=79394&extension=ts
+#EXTINF:-1,LAT| BLOOMBERG
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=79393&extension=ts
+#EXTINF:-1,LAT| BLOOMBERG HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=90828&extension=ts
+#EXTINF:-1,LAT| BOLIVIA TV HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=14822&extension=ts
+#EXTINF:-1,LAT| TIGO SPORTS PLUS PY
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=554685&extension=ts
+#EXTINF:-1,LAT| TIGO SPORTS 1 BO  HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=389448&extension=ts
+#EXTINF:-1,LAT| TIGO SPORTS 2 BO  HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=389449&extension=ts
+#EXTINF:-1,LAT| TIGO SPORTS 3 BO HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=389450&extension=ts
+#EXTINF:-1,LAT| ATB BOLIVIA TV
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=408199&extension=ts
+#EXTINF:-1,LAT| GIGAVISION BOL
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=408197&extension=ts
+#EXTINF:-1,LAT| RTP BOL
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=408195&extension=ts
+#EXTINF:-1,LAT| UNITEL BOL
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=408192&extension=ts
+#EXTINF:-1,LAT| C9N PY
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=408186&extension=ts
+#EXTINF:-1,LAT| GEN TV PY
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=408185&extension=ts
+#EXTINF:-1,LAT| NOTICIAS PY
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=408180&extension=ts
+#EXTINF:-1,LAT| PARAGUAY TV
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=408179&extension=ts
+#EXTINF:-1,LAT| BOOMERANG
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=79392&extension=ts
+#EXTINF:-1,LAT| BOOMERANG HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=90818&extension=ts
+#EXTINF:-1,LAT| CABLE NOTICIAS COLOMBIA
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=14818&extension=ts
+#EXTINF:-1,LAT| CANAL ANTIGUA
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=75220&extension=ts
+#EXTINF:-1,LAT| CARACOL HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=14781&extension=ts
+#EXTINF:-1,LAT| CARTOON NETWORK
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=90796&extension=ts
+#EXTINF:-1,LAT| CARTOON NETWORK HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=90288&extension=ts
+#EXTINF:-1,LAT| CDF CHILE
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=24067&extension=ts
+#EXTINF:-1,LAT| CGTN
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=90291&extension=ts
+#EXTINF:-1,LAT| CINECANAL
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=90795&extension=ts
+#EXTINF:-1,LAT| CINECANAL HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=90287&extension=ts
+#EXTINF:-1,LAT| CINEMAX
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=90286&extension=ts
+#EXTINF:-1,LAT| CINEMAX HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=90794&extension=ts
+#EXTINF:-1,LAT| CNN CHILE
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=23179&extension=ts
+#EXTINF:-1,LAT| COMEDY CENTRAL
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=90824&extension=ts
+#EXTINF:-1,LAT| COMEDY CENTRAL HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=25557&extension=ts
+#EXTINF:-1,LAT| CUBAVISION INT.
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=62037&extension=ts
+#EXTINF:-1,LAT| CUBAVISION
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=790502&extension=ts
+#EXTINF:-1,LAT| DE PELICULA
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=90813&extension=ts
+#EXTINF:-1,LAT| DE PELICULA CLASSICO
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=75289&extension=ts
+#EXTINF:-1,LAT| DE PELICULA HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=75290&extension=ts
+#EXTINF:-1,LAT| DE PELICULA PLUS
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=90812&extension=ts
+#EXTINF:-1,LAT| DE PELICULA PLUS HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=83807&extension=ts
+#EXTINF:-1,LAT| DISCOVERY CHANNEL
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=25552&extension=ts
+#EXTINF:-1,LAT| DISCOVERY CHANNEL HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=90780&extension=ts
+#EXTINF:-1,LAT| DISCOVERY CIVILIZATION
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=25553&extension=ts
+#EXTINF:-1,LAT| DISCOVERY HOME & HEALTH
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=25551&extension=ts
+#EXTINF:-1,LAT| DISCOVERY HOME & HEALTH HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=90779&extension=ts
+#EXTINF:-1,LAT| DISCOVERY KIDS
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=25550&extension=ts
+#EXTINF:-1,LAT| DISCOVERY KIDS HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=90778&extension=ts
+#EXTINF:-1,LAT| DISCOVERY SCIENCE
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=90290&extension=ts
+#EXTINF:-1,LAT| DISCOVERY THEATER
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=25549&extension=ts
+#EXTINF:-1,LAT| DISCOVERY THEATER HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=90777&extension=ts
+#EXTINF:-1,LAT| DISCOVERY TURBO
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=25548&extension=ts
+#EXTINF:-1,LAT| DISCOVERY TURBO HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=90776&extension=ts
+#EXTINF:-1,LAT| DISCOVERY WORLD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=25547&extension=ts
+#EXTINF:-1,LAT| DISCOVERY WORLD HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=90775&extension=ts
+#EXTINF:-1,LAT| DISNEY CHANNEL
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=25544&extension=ts
+#EXTINF:-1,LAT| DISNEY CHANNEL HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=25542&extension=ts
+#EXTINF:-1,LAT| DISNEY JUNIOR
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=25543&extension=ts
+#EXTINF:-1,LAT| DISNEY JUNIOR HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=90774&extension=ts
+#EXTINF:-1,LAT| DISNEY XD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=90773&extension=ts
+#EXTINF:-1,LAT| DISNEY XD HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=90285&extension=ts
+#EXTINF:-1,LAT| DISTRITO COMEDIA
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=90284&extension=ts
+#EXTINF:-1,LAT| E! ENTERTAINMENT
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=90772&extension=ts
+#EXTINF:-1,LAT| E! ENTERTAINMENT HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=90282&extension=ts
+#EXTINF:-1,LAT| EL GOURMET
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=25558&extension=ts
+#EXTINF:-1,LAT| EL GOURMET HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=90816&extension=ts
+#EXTINF:-1,LAT| FORO TV
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=75287&extension=ts
+#EXTINF:-1,LAT| FORO TV HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=79353&extension=ts
+#EXTINF:-1,LAT| FUTV GRITALO CR HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=153270&extension=ts
+#EXTINF:-1,LAT| FX
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=90800&extension=ts
+#EXTINF:-1,LAT| FX HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=25521&extension=ts
+#EXTINF:-1,LAT| FXM
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=90802&extension=ts
+#EXTINF:-1,LAT| FXM HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=90801&extension=ts
+#EXTINF:-1,LAT| GLITZ
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=25522&extension=ts
+#EXTINF:-1,LAT| GOLDEN
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=25538&extension=ts
+#EXTINF:-1,LAT| GOLDEN EDGE
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=90317&extension=ts
+#EXTINF:-1,LAT| GOLDEN PLUS
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=90766&extension=ts
+#EXTINF:-1,LAT| GOLDEN PLUS HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=90765&extension=ts
+#EXTINF:-1,LAT| GUATEVISION
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=75219&extension=ts
+#EXTINF:-1,LAT| H2
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=90316&extension=ts
+#EXTINF:-1,LAT| H2 HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=90764&extension=ts
+#EXTINF:-1,LAT| HBO
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=90786&extension=ts
+#EXTINF:-1,LAT| HBO HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=25518&extension=ts
+#EXTINF:-1,LAT| HBO 2
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=90787&extension=ts
+#EXTINF:-1,LAT| HBO 2 HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=25520&extension=ts
+#EXTINF:-1,LAT| HBO XTREME
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=90300&extension=ts
+#EXTINF:-1,LAT| HBO FAMILY
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=90785&extension=ts
+#EXTINF:-1,LAT| HBO FAMILY HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=25519&extension=ts
+#EXTINF:-1,LAT| HBO MUNDI
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=90301&extension=ts
+#EXTINF:-1,LAT| HBO PLUS
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=90784&extension=ts
+#EXTINF:-1,LAT| HBO PLUS HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=25517&extension=ts
+#EXTINF:-1,LAT| HBO POP
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=90299&extension=ts
+#EXTINF:-1,LAT| HBO SIGNATURE
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=90783&extension=ts
+#EXTINF:-1,LAT| HBO SIGNATURE HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=25516&extension=ts
+#EXTINF:-1,LAT| HISTORY 2 HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=25545&extension=ts
+#EXTINF:-1,LAT| HISTORY HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=25546&extension=ts
+#EXTINF:-1,LAT| INDIEPLEX HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=79388&extension=ts
+#EXTINF:-1,LAT| INVESTIGATION DISCOVERY
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=90782&extension=ts
+#EXTINF:-1,LAT| INVESTIGATION DISCOVERY HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=90781&extension=ts
+#EXTINF:-1,LAT| LIFETIME
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=25556&extension=ts
+#EXTINF:-1,LAT| LIFETIME HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=90815&extension=ts
+#EXTINF:-1,LAT| MAS CHIC HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=90302&extension=ts
+#EXTINF:-1,LAT| MAYA TV (HN)
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=79362&extension=ts
+#EXTINF:-1,LAT| MOVIEMAX HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=79386&extension=ts
+#EXTINF:-1,LAT| MOVIEPLEX HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=79385&extension=ts
+#EXTINF:-1,LAT| MTV HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=90762&extension=ts
+#EXTINF:-1,LAT| MTV 80S
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=90307&extension=ts
+#EXTINF:-1,LAT| MTV HITS
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=90315&extension=ts
+#EXTINF:-1,LAT| MTV LIVE HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=90761&extension=ts
+#EXTINF:-1,LAT| MULTIMEDIOS
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=90806&extension=ts
+#EXTINF:-1,LAT| MULTIMEDIOS HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=25535&extension=ts
+#EXTINF:-1,LAT| MULTIMEDIOS PLUS
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=90805&extension=ts
+#EXTINF:-1,LAT| MULTIMEDIOS PLUS HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=90804&extension=ts
+#EXTINF:-1,LAT| NAT GEO
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=90822&extension=ts
+#EXTINF:-1,LAT| NAT GEO HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=25594&extension=ts
+#EXTINF:-1,LAT| NAT GEO KIDS
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=90821&extension=ts
+#EXTINF:-1,LAT| NAT GEO KIDS HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=90820&extension=ts
+#EXTINF:-1,LAT| NAT GEO MUNDO HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=25593&extension=ts
+#EXTINF:-1,LAT| NAT GEO WILD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=90819&extension=ts
+#EXTINF:-1,LAT| NAT GEO WILD HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=25592&extension=ts
+#EXTINF:-1,LAT| NICK 2
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=57141&extension=ts
+#EXTINF:-1,LAT| NICK JR
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=90314&extension=ts
+#EXTINF:-1,LAT| NICK TOONS
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=90313&extension=ts
+#EXTINF:-1,LAT| NICKELODEON HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=25591&extension=ts
+#EXTINF:-1,LAT| OUTERMAX HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=79384&extension=ts
+#EXTINF:-1,LAT| PARAMOUNT CHANNEL
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=25537&extension=ts
+#EXTINF:-1,LAT| PARAMOUNT CHANNEL HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=25534&extension=ts
+#EXTINF:-1,LAT| RITMOSON
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=90298&extension=ts
+#EXTINF:-1,LAT| SONY CHANNEL
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=90312&extension=ts
+#EXTINF:-1,LAT| SPACE
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=90810&extension=ts
+#EXTINF:-1,LAT| SPACE HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=25533&extension=ts
+#EXTINF:-1,LAT| STAR CHANNEL
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=90799&extension=ts
+#EXTINF:-1,LAT| STAR CHANNEL HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=25555&extension=ts
+#EXTINF:-1,LAT| STAR ACTION
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=25554&extension=ts
+#EXTINF:-1,LAT| STAR ACTION HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=90771&extension=ts
+#EXTINF:-1,LAT| STAR CLASSICS
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=90280&extension=ts
+#EXTINF:-1,LAT| STAR CLASSICS HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=90770&extension=ts
+#EXTINF:-1,LAT| STAR COMEDY
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=90278&extension=ts
+#EXTINF:-1,LAT| STAR COMEDY HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=90769&extension=ts
+#EXTINF:-1,LAT| STAR FUN
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=90768&extension=ts
+#EXTINF:-1,LAT| STAR FUN HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=90277&extension=ts
+#EXTINF:-1,LAT| STAR LIFE
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=90767&extension=ts
+#EXTINF:-1,LAT| STAR LIFE HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=90318&extension=ts
+#EXTINF:-1,LAT| STAR HITS
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=90279&extension=ts
+#EXTINF:-1,LAT| STAR MOVIES
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=25541&extension=ts
+#EXTINF:-1,LAT| STAR SERIES
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=25540&extension=ts
+#EXTINF:-1,LAT| STAR SERIES HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=25539&extension=ts
+#EXTINF:-1,LAT| STARZ COMEDY HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=79376&extension=ts
+#EXTINF:-1,LAT| STARZ EAST HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=79375&extension=ts
+#EXTINF:-1,LAT| STARZ EDGE HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=79374&extension=ts
+#EXTINF:-1,LAT| STARZ ENCORE ACTION
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=79373&extension=ts
+#EXTINF:-1,LAT| STARZ ENCORE BLACK HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=79372&extension=ts
+#EXTINF:-1,LAT| STARZ ENCORE CLASSIC HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=79371&extension=ts
+#EXTINF:-1,LAT| STARZ ENCORE FAMILY HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=79370&extension=ts
+#EXTINF:-1,LAT| STARZ ENCORE HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=79369&extension=ts
+#EXTINF:-1,LAT| STARZ ENCORE SUSPENSE HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=79368&extension=ts
+#EXTINF:-1,LAT| STARZ ENCORE WESTERN HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=79367&extension=ts
+#EXTINF:-1,LAT| STARZ FAMILY HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=79366&extension=ts
+#EXTINF:-1,LAT| STARZ HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=79365&extension=ts
+#EXTINF:-1,LAT| STARZ KIDS & FAMILY HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=79364&extension=ts
+#EXTINF:-1,LAT| STARZ WEST HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=79363&extension=ts
+#EXTINF:-1,LAT| STUDIO UNIVERSAL
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=90803&extension=ts
+#EXTINF:-1,LAT| STUDIO UNIVERSAL HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=25532&extension=ts
+#EXTINF:-1,LAT| SUNDANCE TV
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=90811&extension=ts
+#EXTINF:-1,LAT| SUNDANCE TV HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=25531&extension=ts
+#EXTINF:-1,LAT| SYFY HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=90311&extension=ts
+#EXTINF:-1,LAT| TBS
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=90297&extension=ts
+#EXTINF:-1,LAT| TCM
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=90310&extension=ts
+#EXTINF:-1,LAT| TELE REBELDE (CU)
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=79404&extension=ts
+#EXTINF:-1,LAT| TELECENTRO
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=14815&extension=ts
+#EXTINF:-1,LAT| TELEMETRO (PA)
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=79402&extension=ts
+#EXTINF:-1,LAT| TELEMUNDO 49 TAMPA
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=1060021&extension=ts
+#EXTINF:-1,LAT| TELEMUNDO HOUSTON HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=25567&extension=ts
+#EXTINF:-1,LAT| TELEMUNDO ATLANTA HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=25568&extension=ts
+#EXTINF:-1,LAT| TELEMUNDO BOSTON HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=25573&extension=ts
+#EXTINF:-1,LAT| TELEMUNDO CHICAGO HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=25576&extension=ts
+#EXTINF:-1,LAT| TELEMUNDO DALLAS HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=25575&extension=ts
+#EXTINF:-1,LAT| TELEMUNDO FRESNO HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=25578&extension=ts
+#EXTINF:-1,LAT| TELEMUNDO HARTFORD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=806851&extension=ts
+#EXTINF:-1,LAT| TELEMUNDO LAS VEGAS HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=25571&extension=ts
+#EXTINF:-1,LAT| TELEMUNDO LOS ANGELES HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=25577&extension=ts
+#EXTINF:-1,LAT| TELEMUNDO MIAMI HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=721973&extension=ts
+#EXTINF:-1,LAT| TELEMUNDO NEW YORK HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=25580&extension=ts
+#EXTINF:-1,LAT| TELEMUNDO 42 NEW ORLEANS
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=1010772&extension=ts
+#EXTINF:-1,LAT| TELEMUNDO PHILADELPHIA HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=25570&extension=ts
+#EXTINF:-1,LAT| TELEMUNDO PHOENIX HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=25569&extension=ts
+#EXTINF:-1,LAT| TELEMUNDO PUERTO RICO HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=149812&extension=ts
+#EXTINF:-1,LAT| TELEMUNDO SAN FRANSISCO HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=25574&extension=ts
+#EXTINF:-1,LAT| TELEMUNDO WASHINGTON HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=25572&extension=ts
+#EXTINF:-1,LAT| TELEPACIFICO
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=79390&extension=ts
+#EXTINF:-1,LAT| TELESISTEMA
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=14833&extension=ts
+#EXTINF:-1,LAT| TELETICA 7 (CR)
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=79348&extension=ts
+#EXTINF:-1,LAT| TLC
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=90814&extension=ts
+#EXTINF:-1,LAT| TLC HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=25530&extension=ts
+#EXTINF:-1,LAT| TNT
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=90808&extension=ts
+#EXTINF:-1,LAT| TNT HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=25529&extension=ts
+#EXTINF:-1,LAT| TNT SERIES
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=90807&extension=ts
+#EXTINF:-1,LAT| TNT SERIES HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=25528&extension=ts
+#EXTINF:-1,LAT| TOONCAST
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=25515&extension=ts
+#EXTINF:-1,LAT| TOP LATINO
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=90304&extension=ts
+#EXTINF:-1,LAT| TRU TV HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=90309&extension=ts
+#EXTINF:-1,LAT| TV CHILE
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=23177&extension=ts
+#EXTINF:-1,LAT| TV MAX (PA)
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=79401&extension=ts
+#EXTINF:-1,LAT| TVE
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=79354&extension=ts
+#EXTINF:-1,LAT| TVN (PA)
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=79400&extension=ts
+#EXTINF:-1,LAT| UNIMAS DALLAS HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=25566&extension=ts
+#EXTINF:-1,LAT| UNIMAS LOS ANGELES HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=25564&extension=ts
+#EXTINF:-1,LAT| UNIMAS NEW YORK HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=25563&extension=ts
+#EXTINF:-1,LAT| UNIVERSAL CHANNEL
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=25523&extension=ts
+#EXTINF:-1,LAT| UNIVISION ATLANTA HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=25585&extension=ts
+#EXTINF:-1,LAT| UNIVISION AUSTIN HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=90834&extension=ts
+#EXTINF:-1,LAT| UNIVISION CHICAGO HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=90832&extension=ts
+#EXTINF:-1,LAT| UNIVISION CLEVELAND HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=90831&extension=ts
+#EXTINF:-1,LAT| UNIVISION DALLAS HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=25583&extension=ts
+#EXTINF:-1,LAT| UNIVISION FORT LAUDERDALE HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=25584&extension=ts
+#EXTINF:-1,LAT| UNIVISION FRESNO HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=90836&extension=ts
+#EXTINF:-1,LAT| UNIVISION HARTFORD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=806850&extension=ts
+#EXTINF:-1,LAT| UNIVISION HOUSTON HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=90830&extension=ts
+#EXTINF:-1,LAT| UNIVISION LOS ANGELES HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=90833&extension=ts
+#EXTINF:-1,LAT| UNIVISION MIAMI HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=721974&extension=ts
+#EXTINF:-1,LAT| UNIVISION 41 NEW YORK HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=722824&extension=ts
+#EXTINF:-1,LAT| UNIVISION 11 PUERTO RICO HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=729773&extension=ts
+#EXTINF:-1,LAT| TUDN XTRA 1
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=982317&extension=ts
+#EXTINF:-1,LAT| TUDN XTRA 2
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=982320&extension=ts
+#EXTINF:-1,LAT| TUDN XTRA 3
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=982321&extension=ts
+#EXTINF:-1,LAT| TUDN XTRA 4
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=982322&extension=ts
+#EXTINF:-1,LAT| TUDN XTRA 5
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=982323&extension=ts
+#EXTINF:-1,LAT| TUDN XTRA 6
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=982324&extension=ts
+#EXTINF:-1,LAT| TUDN XTRA 7
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=982325&extension=ts
+#EXTINF:-1,LAT| TUDN XTRA 8
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=982326&extension=ts
+#EXTINF:-1,LAT| TUDN XTRA 9
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=982327&extension=ts
+#EXTINF:-1,LAT| TUDN XTRA 10
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=982318&extension=ts
+#EXTINF:-1,LAT| TUDN XTRA 11
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=982319&extension=ts
+#EXTINF:-1,LAT| VH1 HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=90308&extension=ts
+#EXTINF:-1,LAT| VTV
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=25525&extension=ts
+#EXTINF:-1,LAT| WAPA HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=149808&extension=ts
+#EXTINF:-1,LAT| WAPA 2 HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=149809&extension=ts
+#EXTINF:-1,LAT| WARNER
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=90827&extension=ts
+#EXTINF:-1,LAT| WARNER HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=25527&extension=ts
+#EXTINF:-1,LAT| WOBI HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=90295&extension=ts
+#EXTINF:-1,LAT| PPV 01
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=543974&extension=ts
+#EXTINF:-1,LAT| PPV 02
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=543975&extension=ts
+#EXTINF:-1,LAT| PPV 03
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=543976&extension=ts
+#EXTINF:-1,LAT| PPV 04
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=543977&extension=ts
+#EXTINF:-1,LAT| PPV 05
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=543978&extension=ts
+#EXTINF:-1,LAT| PPV 06
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=543979&extension=ts
+#EXTINF:-1,LAT| PPV 07
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=543980&extension=ts
+#EXTINF:-1,LAT| PPV 08
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=28567&extension=ts
+#EXTINF:-1,LAT| PPV 09
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=543981&extension=ts
+#EXTINF:-1,LAT| PPV 10
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=543982&extension=ts
+#EXTINF:-1,LAT| PPV 11
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=543983&extension=ts
+#EXTINF:-1,LAT| PPV 12
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=543984&extension=ts
+#EXTINF:-1,LAT| PPV 13
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=543985&extension=ts
+#EXTINF:-1,LAT| PPV 14
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=543986&extension=ts
+#EXTINF:-1,LAT| PPV 15
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=28560&extension=ts
+#EXTINF:-1,LAT| PPV 16
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=543987&extension=ts
+#EXTINF:-1,LAT| PPV 17
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=28558&extension=ts
+#EXTINF:-1,LAT| PPV 18
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=28557&extension=ts
+#EXTINF:-1,LAT| PPV 19
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=543988&extension=ts
+#EXTINF:-1,LAT| PPV 20
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=28555&extension=ts
+#EXTINF:-1,LAT| PPV 21
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=28554&extension=ts
+#EXTINF:-1,LAT| PPV 22
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=543989&extension=ts
+#EXTINF:-1,LAT| PPV 23
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=543990&extension=ts
+#EXTINF:-1,LAT| PPV 24
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=543991&extension=ts
+#EXTINF:-1,LAT| PPV 25
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=543992&extension=ts
+#EXTINF:-1,LAT| PPV 26
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=543993&extension=ts
+#EXTINF:-1,LAT| PPV 27
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=28548&extension=ts
+#EXTINF:-1,LAT| PPV 28
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=28547&extension=ts
+#EXTINF:-1,LAT| PPV 29
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=28546&extension=ts
+#EXTINF:-1,LAT| PPV 30
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=28545&extension=ts
+#EXTINF:-1,LAT| PPV 31
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=543994&extension=ts
+#EXTINF:-1,LAT| PPV 32
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=28543&extension=ts
+#EXTINF:-1,LAT| PPV 33
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=28542&extension=ts
+#EXTINF:-1,LAT| PPV 34
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=28541&extension=ts
+#EXTINF:-1,LAT| PPV 35
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=543995&extension=ts
+#EXTINF:-1,LAT| PPV 36
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=28539&extension=ts
+#EXTINF:-1,LAT| PPV 37
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=543996&extension=ts
+#EXTINF:-1,LSV| 6 EL SALVADOR
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=111712&extension=ts
+#EXTINF:-1,LSV| CANAL 2
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=111709&extension=ts
+#EXTINF:-1,LSV| CANAL 4
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=111710&extension=ts
+#EXTINF:-1,LSV| CANAL 6
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=111711&extension=ts
+#EXTINF:-1,LSV| CANAL 12
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=111707&extension=ts
+#EXTINF:-1,LSV| CANAL 17
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=557319&extension=ts
+#EXTINF:-1,LSV| CANAL 19
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=111708&extension=ts
+#EXTINF:-1,LSV| MEGAVISION CANAL 19
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=111713&extension=ts
+#EXTINF:-1,LSV| MEGAVISION CANAL 21
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=111714&extension=ts
+#EXTINF:-1,LSV| TUTV CANAL 11
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=111715&extension=ts
+#EXTINF:-1,LSV| TVES CANAL 10
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=111716&extension=ts
+#EXTINF:-1,LSV| VTV CANAL 35
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=111717&extension=ts
+#EXTINF:-1,LSV| WOW TV
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=111718&extension=ts
+#EXTINF:-1,MXC| 24H SD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552782&extension=ts
+#EXTINF:-1,MXC| A&E HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552903&extension=ts
+#EXTINF:-1,MXC| A3CINE FHD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552786&extension=ts
+#EXTINF:-1,MXC| ADN 40
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=25332&extension=ts
+#EXTINF:-1,MXC| ADRENALINA FHD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552783&extension=ts
+#EXTINF:-1,MXC| AFIZZIONADOS FHD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552784&extension=ts
+#EXTINF:-1,MXC| ALEBRIJE TV
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=806278&extension=ts
+#EXTINF:-1,MXC| AMC
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552971&extension=ts
+#EXTINF:-1,MXC| ANIMAL PLANET HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552905&extension=ts
+#EXTINF:-1,MXC| ANTENA 3
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552785&extension=ts
+#EXTINF:-1,MXC| ANTENA 3 INTERNACIONAL
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552972&extension=ts
+#EXTINF:-1,MXC| ATRE SERIES
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552968&extension=ts
+#EXTINF:-1,MXC| ATRES SERIES FHD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552787&extension=ts
+#EXTINF:-1,MXC| AXN HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552904&extension=ts
+#EXTINF:-1,MXC| AZ CINEMA
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552973&extension=ts
+#EXTINF:-1,MXC| AZ CLIC
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=25329&extension=ts
+#EXTINF:-1,MXC| AZ CORAZON
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=25328&extension=ts
+#EXTINF:-1,MXC| AZ MUNDO
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=25325&extension=ts
+#EXTINF:-1,MXC| AZTECA 7
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=25330&extension=ts
+#EXTINF:-1,MXC| AZTECA CORAZON HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552975&extension=ts
+#EXTINF:-1,MXC| AZTECA UNO
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=25331&extension=ts
+#EXTINF:-1,MXC| B CINE FHD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552788&extension=ts
+#EXTINF:-1,MXC| BABY FIRST
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552906&extension=ts
+#EXTINF:-1,MXC| BANDAMAX
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=90349&extension=ts
+#EXTINF:-1,MXC| BITME FHD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552790&extension=ts
+#EXTINF:-1,MXC| BLOOMBERG TV HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=553078&extension=ts
+#EXTINF:-1,MXC| CADENA H
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552981&extension=ts
+#EXTINF:-1,MXC| CANAL 113 HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=553060&extension=ts
+#EXTINF:-1,MXC| CANAL 4
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=553056&extension=ts
+#EXTINF:-1,MXC| CANAL 5
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552823&extension=ts
+#EXTINF:-1,MXC| CANAL 5 HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=25327&extension=ts
+#EXTINF:-1,MXC| CANAL 9
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552824&extension=ts
+#EXTINF:-1,MXC| CANAL DE LAS ESTRELLAS
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=25321&extension=ts
+#EXTINF:-1,MXC| CANAL ONCE
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=25323&extension=ts
+#EXTINF:-1,MXC| CANAL ONCE INT.
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=25322&extension=ts
+#EXTINF:-1,MXC| CANAL ONCE INTNL HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552956&extension=ts
+#EXTINF:-1,MXC| CANAL ONCE MX
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=25324&extension=ts
+#EXTINF:-1,MXC| CARTOON NETWORK HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552909&extension=ts
+#EXTINF:-1,MXC| CINECANAL
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552826&extension=ts
+#EXTINF:-1,MXC| CINECANAL HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552982&extension=ts
+#EXTINF:-1,MXC| CINEMAX HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552910&extension=ts
+#EXTINF:-1,MXC| CLAN FHD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552792&extension=ts
+#EXTINF:-1,MXC| COMEDY CENTRAL HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552908&extension=ts
+#EXTINF:-1,MXC| COCINA TV
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=806272&extension=ts
+#EXTINF:-1,MXC| COMO DICE EL DICHO TV
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=806276&extension=ts
+#EXTINF:-1,MXC| DE  PELICULA
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552828&extension=ts
+#EXTINF:-1,MXC| DE PELICULA CLASSICO
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=553079&extension=ts
+#EXTINF:-1,MXC| DE PELICULA HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=553081&extension=ts
+#EXTINF:-1,MXC| DE PELICULA PLUS FHD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552794&extension=ts
+#EXTINF:-1,MXC| DE PELICULA PLUS HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=553080&extension=ts
+#EXTINF:-1,MXC| DE PELICULA SD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552793&extension=ts
+#EXTINF:-1,MXC| DISCOVERY CHANNEL HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552911&extension=ts
+#EXTINF:-1,MXC| DISCOVERY CIVILIZATION HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552985&extension=ts
+#EXTINF:-1,MXC| DISCOVERY H&H HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552986&extension=ts
+#EXTINF:-1,MXC| DISCOVERY KIDS
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552829&extension=ts
+#EXTINF:-1,MXC| DISCOVERY SCIENCE HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552987&extension=ts
+#EXTINF:-1,MXC| DISCOVERY THEATER HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552913&extension=ts
+#EXTINF:-1,MXC| DISCOVERY TURBO HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552912&extension=ts
+#EXTINF:-1,MXC| DISCOVERY WORLD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552832&extension=ts
+#EXTINF:-1,MXC| DISNEY CHANNEL HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552922&extension=ts
+#EXTINF:-1,MXC| DISNEY JR
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552989&extension=ts
+#EXTINF:-1,MXC| DISTRITO COMEDIA
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=806271&extension=ts
+#EXTINF:-1,MXC| E! ENTERTAINMENT HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552937&extension=ts
+#EXTINF:-1,MXC| EL GOURMET HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552935&extension=ts
+#EXTINF:-1,MXC| ESPN 2
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552834&extension=ts
+#EXTINF:-1,MXC| ESPN 3
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552835&extension=ts
+#EXTINF:-1,MXC| ESPN HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552836&extension=ts
+#EXTINF:-1,MXC| ESPN PLUS HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552837&extension=ts
+#EXTINF:-1,MXC| FILM & ART HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552993&extension=ts
+#EXTINF:-1,MXC| FOOD NETWORK
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552994&extension=ts
+#EXTINF:-1,MXC| FORO TV
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=25326&extension=ts
+#EXTINF:-1,MXC| FOX SPORTS 3
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552846&extension=ts
+#EXTINF:-1,MXC| FOX SPORTS 2
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552847&extension=ts
+#EXTINF:-1,MXC| FOX SPORTS HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552849&extension=ts
+#EXTINF:-1,MXC| FX HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552919&extension=ts
+#EXTINF:-1,MXC| FX MOVIES HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552925&extension=ts
+#EXTINF:-1,MXC| FXM HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552920&extension=ts
+#EXTINF:-1,MXC| GALA TV 9 HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552901&extension=ts
+#EXTINF:-1,MXC| GALAVISION HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552878&extension=ts
+#EXTINF:-1,MXC| GLITZ HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552997&extension=ts
+#EXTINF:-1,MXC| GOLDEN
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552998&extension=ts
+#EXTINF:-1,MXC| GOLDEN EDGE
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552999&extension=ts
+#EXTINF:-1,MXC| GOLDEN MULTIPLEX
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552799&extension=ts
+#EXTINF:-1,MXC| GOLDEN PLUS
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=553000&extension=ts
+#EXTINF:-1,MXC| HBO 2 HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552933&extension=ts
+#EXTINF:-1,MXC| HBO HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552934&extension=ts
+#EXTINF:-1,MXC| HBO MUNDI
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552854&extension=ts
+#EXTINF:-1,MXC| HBO PLUS HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552931&extension=ts
+#EXTINF:-1,MXC| HBO SIGNATURE HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552930&extension=ts
+#EXTINF:-1,MXC| HISTORY 2
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552855&extension=ts
+#EXTINF:-1,MXC| HISTORY HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552939&extension=ts
+#EXTINF:-1,MXC| HLN HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=553001&extension=ts
+#EXTINF:-1,MXC| IMAGEN HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=25316&extension=ts
+#EXTINF:-1,MXC| INVESTIGATION DISCOVERY HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552914&extension=ts
+#EXTINF:-1,MXC| LA ROSA DE GUADALUPE TV
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=806275&extension=ts
+#EXTINF:-1,MXC| LAS ESTRELLAS
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552802&extension=ts
+#EXTINF:-1,MXC| LAS ESTRELLAS -1 HORA
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552803&extension=ts
+#EXTINF:-1,MXC| LAS ESTRELLAS -2 HORA
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552804&extension=ts
+#EXTINF:-1,MXC| LAS ESTRELLAS 1 HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552873&extension=ts
+#EXTINF:-1,MXC| LAS ESTRELLAS FHD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552872&extension=ts
+#EXTINF:-1,MXC| LAS ESTRELLAS HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552874&extension=ts
+#EXTINF:-1,MXC| LIFETIME HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552943&extension=ts
+#EXTINF:-1,MXC| MAS CHIC
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=553006&extension=ts
+#EXTINF:-1,MXC| MAS CHIC HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=553047&extension=ts
+#EXTINF:-1,MXC| MEXIQUENSE HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=25315&extension=ts
+#EXTINF:-1,MXC| MILENIO TV HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552955&extension=ts
+#EXTINF:-1,MXC| MORBIDO HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552898&extension=ts
+#EXTINF:-1,MXC| MTV HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=553009&extension=ts
+#EXTINF:-1,MXC| MTV LIVE HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=553007&extension=ts
+#EXTINF:-1,MXC| MTV NEWS HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=553008&extension=ts
+#EXTINF:-1,MXC| MULTIMEDIOS
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552881&extension=ts
+#EXTINF:-1,MXC| MULTIMEDIOS MONTERREY HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552879&extension=ts
+#EXTINF:-1,MXC| MULTIMEDIOS PLUS HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552897&extension=ts
+#EXTINF:-1,MXC| NAT GEO HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552944&extension=ts
+#EXTINF:-1,MXC| NAT GEO KIDS HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=553010&extension=ts
+#EXTINF:-1,MXC| NAT GEO WILD HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552938&extension=ts
+#EXTINF:-1,MXC| NATGEO KIDS
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552859&extension=ts
+#EXTINF:-1,MXC| NICK
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552860&extension=ts
+#EXTINF:-1,MXC| NICK 2 HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552945&extension=ts
+#EXTINF:-1,MXC| NICK JR HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552949&extension=ts
+#EXTINF:-1,MXC| NICKELODEON HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552948&extension=ts
+#EXTINF:-1,MXC| NICKTOONS
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=553011&extension=ts
+#EXTINF:-1,MXC| NU9VE
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552805&extension=ts
+#EXTINF:-1,MXC| NUESTRO CINE
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=806277&extension=ts
+#EXTINF:-1,MXC| PARAMOUNT CHANNEL HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552929&extension=ts
+#EXTINF:-1,MXC| PASIONES HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552950&extension=ts
+#EXTINF:-1,MXC| RETRO AMOR TV
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=806273&extension=ts
+#EXTINF:-1,MXC| ROMANCE TV
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=806274&extension=ts
+#EXTINF:-1,MXC| RCG 2
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552959&extension=ts
+#EXTINF:-1,MXC| SONY CHANNEL HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552951&extension=ts
+#EXTINF:-1,MXC| SPACE HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552899&extension=ts
+#EXTINF:-1,MXC| STAR TVE
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552806&extension=ts
+#EXTINF:-1,MXC| STUDIO UNIVERSAL HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552947&extension=ts
+#EXTINF:-1,MXC| STAR CHANNEL
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552842&extension=ts
+#EXTINF:-1,MXC| STAR HITS HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552926&extension=ts
+#EXTINF:-1,MXC| STAR ACTION
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552843&extension=ts
+#EXTINF:-1,MXC| STAR ACTION MEXICO HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552917&extension=ts
+#EXTINF:-1,MXC| STAR CINEMA HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552923&extension=ts
+#EXTINF:-1,MXC| STAR CLASSICS HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552924&extension=ts
+#EXTINF:-1,MXC| STAR CHANNEL HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552928&extension=ts
+#EXTINF:-1,MXC| STAR LIFE
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552966&extension=ts
+#EXTINF:-1,MXC| STAR SERIES HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552927&extension=ts
+#EXTINF:-1,MXC| SYFY
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=553016&extension=ts
+#EXTINF:-1,MXC| STAR SERIES
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552845&extension=ts
+#EXTINF:-1,MXC| TBS HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=553017&extension=ts
+#EXTINF:-1,MXC| TCM HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=553042&extension=ts
+#EXTINF:-1,MXC| TELEFORMULA
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=25317&extension=ts
+#EXTINF:-1,MXC| TELEHIT MUSICA
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552808&extension=ts
+#EXTINF:-1,MXC| TELEHIT MUSICA PLUS
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552809&extension=ts
+#EXTINF:-1,MXC| TELEHIT PLUS HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552902&extension=ts
+#EXTINF:-1,MXC| TELEMUNDO
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552867&extension=ts
+#EXTINF:-1,MXC| TELEMUNDO INTERNATIONAL
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552810&extension=ts
+#EXTINF:-1,MXC| TELENOVELAS FHD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=553043&extension=ts
+#EXTINF:-1,MXC| TELERITMO
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552963&extension=ts
+#EXTINF:-1,MXC| TELEVISA GUADALAJARA
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552811&extension=ts
+#EXTINF:-1,MXC| TELEVISA MONTERREY 4 FHD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552795&extension=ts
+#EXTINF:-1,MXC| TELEVISA MTY
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552876&extension=ts
+#EXTINF:-1,MXC| TLC HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552940&extension=ts
+#EXTINF:-1,MXC| TLNOVELAS
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552812&extension=ts
+#EXTINF:-1,MXC| TLR HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=553044&extension=ts
+#EXTINF:-1,MXC| TNT HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552942&extension=ts
+#EXTINF:-1,MXC| TNT SERIES
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=553045&extension=ts
+#EXTINF:-1,MXC| TOONCAST HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=553046&extension=ts
+#EXTINF:-1,MXC| TRU TV HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552952&extension=ts
+#EXTINF:-1,MXC| TUDN
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552870&extension=ts
+#EXTINF:-1,MXC| TV MAS HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552958&extension=ts
+#EXTINF:-1,MXC| TV5 FRANCIA
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=553048&extension=ts
+#EXTINF:-1,MXC| TVC
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552900&extension=ts
+#EXTINF:-1,MXC| TVE
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552814&extension=ts
+#EXTINF:-1,MXC| TVE HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=553049&extension=ts
+#EXTINF:-1,MXC| U-BEAT
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=813203&extension=ts
+#EXTINF:-1,MXC| UNICABLE HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552936&extension=ts
+#EXTINF:-1,MXC| UNIVERSAL CHANNEL HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552953&extension=ts
+#EXTINF:-1,MXC| VH1
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=553051&extension=ts
+#EXTINF:-1,MXC| VTV HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=553052&extension=ts
+#EXTINF:-1,MXC| WARNER HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=552941&extension=ts
+#EXTINF:-1,MXC| WOBI HD
+http://ss123.pro/play/live.php?mac=00:1a:79:4f:ed:1d&stream=553053&extension=ts
