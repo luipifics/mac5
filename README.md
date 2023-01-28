@@ -3045,3 +3045,19 @@ http://mag.you24.online:80/p8sakr8qgj/cwdqfxtnbv/688538
 http://mag.you24.online:80/p8sakr8qgj/cwdqfxtnbv/6756
 #EXTINF:-1 tvg-id="" tvg-name="✽✽⭒ Main & Regional ⭒✽✽" tvg-logo="https://i.postimg.cc/Wz4gr6JS/SEFlag.png" group-title="Sweden",✽✽⭒ Main & Regional ⭒✽✽
 http://mag.you24.online:80/p8sakr8qgj/cwdqfxtnbv/678926
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS pure iptv.com
+http://pure-iptv.com:8000/QnoIa5G4Ehbb/neFIYMY7Qx/173516
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TNT SERIES
+http://pure-iptv.com:8000/QnoIa5G4Ehbb/neFIYMY7Qx/173516
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS   TNT
+http://pure-iptv.com:8000/QnoIa5G4Ehbb/neFIYMY7Qx/173517
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS  AXN ARG
+http://pure-iptv.com:8000/QnoIa5G4Ehbb/neFIYMY7Qx/173751
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS  AXN MEXICO
+http://pure-iptv.com:8000/QnoIa5G4Ehbb/neFIYMY7Qx/173565
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS   SPACE
+http://pure-iptv.com:8000/QnoIa5G4Ehbb/neFIYMY7Qx/173522
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS  TNT SERIES ARG
+http://pure-iptv.com:8000/QnoIa5G4Ehbb/neFIYMY7Qx/173649
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TNT SERIES MEXICO
+http://pure-iptv.com:8000/QnoIa5G4Ehbb/neFIYMY7Qx/173516
