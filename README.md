@@ -28,6 +28,10 @@ http://applyrenderflow.h1ott.com:80/Eduardo/Eduardo/926567
 http://applyrenderflow.h1ott.com:80/Eduardo/Eduardo/926566
 #EXTINF:-1 tvg-id="" tvg-name="ARG| CANAL ORBE 21" tvg-logo="http://logo.protv.cc/picons/logos/canalorbe21.png" group-title="LAT| ARGENTINA",ARG| CANAL ORBE 21
 http://applyrenderflow.h1ott.com:80/Eduardo/Eduardo/926565
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TNT SERIES 4K
+http://iptv.jinbox.nl/play/live.php?mac=00:1A:79:AE:DF:62&stream=24945&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS AXN 4K
+http://iptv.jinbox.nl/play/live.php?mac=00:1A:79:AE:DF:62&stream=25003&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="ARG| CANAL RURAL" tvg-logo="http://logo.protv.cc/picons/logos/Canal_Rural.png" group-title="LAT| ARGENTINA",ARG| CANAL RURAL
 http://applyrenderflow.h1ott.com:80/Eduardo/Eduardo/926564
 #EXTINF:-1 tvg-id="" tvg-name="ARG| CANAL SANTA MARÍA" tvg-logo="http://logo.protv.cc/picons/logos/CANAL-SANTA-MARIA.jpeg" group-title="LAT| ARGENTINA",ARG| CANAL SANTA MARÍA
